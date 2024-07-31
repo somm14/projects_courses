@@ -39,7 +39,7 @@ En esta sección se presentan los principales hallazgos del análisis:
 - **Disparidades Geográficas**: Zonas con rentas anuales significativamente menores que en otras zonas presentan una tasa de idoneidad baja.
 - **Otros Factores**: Además de la renta, influyen otros factores como la calidad de la educación, las infraestructuras, las políticas educativas...
 
-Puedes explorar los resultados completos en el notebook del análisis.
+Puedes explorar los resultados completos en el [notebook del análisis](./main.ipynb).
 
 ## Contacto
 
