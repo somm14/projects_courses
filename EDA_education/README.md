@@ -45,7 +45,7 @@ Puedes explorar los resultados completos en el notebook del análisis.
 
 Para cualquier pregunta o comentario, puedes contactarme a través de:
 
-- Correo electrónico: sorimalpica@gmail.com
+- Correo electrónico: somm14DS@gmail.com
 - LinkedIn: **en construcción**
 
 ## Agradecimientos
