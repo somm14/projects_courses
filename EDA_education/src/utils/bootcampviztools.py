@@ -1,5 +1,6 @@
-from utils.modulos import *
-
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
 
 def pinta_distribucion_categoricas(df, columnas_categoricas, relativa=False, mostrar_valores=False, giro = 45):
     num_columnas = len(columnas_categoricas)

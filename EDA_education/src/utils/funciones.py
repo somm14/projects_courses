@@ -1,4 +1,6 @@
-from utils.modulos import *
+import pandas as pd
+
+
 
 def limpieza_datos(df, distrito, curso_escolar): # Limpiar datos de primaria y ESO
     df["Distrito"] = distrito
