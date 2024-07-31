@@ -1,5 +1,3 @@
-###### Recopilación de todos los proyectos que realice en diferentes cursos
-
 # Análisis Exploratorio de Datos: Influencia del Nivel Económico sobre la Educación en Madrid
 
 ## Tabla de contenidos:
