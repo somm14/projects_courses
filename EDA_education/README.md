@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Este proyecto realiza un Análisis Exploratorio de Datos (EDA) para investigar cómo **el nivel económico de las familias afecta la educación de sus hijos en Madrid**. Usando datos obtenidos del [Ayuntamiento de Madrid](https://www.madrid.es), se examinan diversas métricas educativas y económicas para identificar patrones y relaciones significativas. Para poder realizar con más detalle este análisis he selecccionado el año 2014 (pre-pandemia) y el año 2020 (pos-pandemia)
+Este proyecto realiza un Análisis Exploratorio de Datos (EDA) para investigar cómo el nivel económico de las familias afecta la educación de sus hijos en Madrid. Usando datos obtenidos del Ayuntamiento de Madrid, se examinan diversas métricas educativas y económicas para identificar patrones y relaciones significativas. Para poder realizar con más detalle este análisis he selecccionado el año 2014 (pre-pandemia) y el año 2020 (medidas optadas excepcionalmente por la situación de pandemia mundial)
 
 ## Datos
 
