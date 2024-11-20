@@ -56,7 +56,7 @@ Los modelos lograron predecir el rendimiento estudiantil con los siguientes resu
 - **Factores más relevantes**:
     - Después de hacer os diferentes análisis para seleccionar las *Features* y de la selección del modelo, la mejor métrica conseguida fue abarcando todas las variables.
 
-Más detalles sobre los resultados están disponibles en la 'memoria' del proyecto.
+Más detalles sobre los resultados están disponibles en la ['memoria'](./memoria.ipynb) del proyecto.
 
 ## Contacto
 Para cualquier pregunta o comentario, puedes contactarme a través de:
