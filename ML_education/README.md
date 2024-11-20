@@ -3,11 +3,11 @@ Este proyecto utiliza **Machine Learning** para predecir el rendimiento y la ret
 
 ## Tabla de contenidos:
 1. [Descripción del problema](#descripción-del-problema)
-2. [Acerca de Dataset](#acerca-del-Dataset)
-3. [Metodología](#)
-4. [Resultados](#)
-5. [Estructura del Respositorio](#)
-6. [Contribuciones](#)
+2. [Acerca del Dataset](#acerca-del-dataset)
+3. [Metodología](#metodología)
+4. [Resultados](#resultados)
+5. [Contacto](#contacto)
+6. [Agradecimientos](#agradecimientos)
 
 ## Descripción del problema
 La deserción estudiantil es un desafío clave para las instituciones de educación superior. Este proyecto busca responder a preguntas como:
@@ -25,3 +25,45 @@ El dataset incluye diversas características relacionadas con los estudiantes, c
   
 Más detalles están disponibles en el [dataset original](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
 
+## Metodología
+El proyecto se desarrolló en los siguientes pasos:
+1. **Preprocesamiento de datos**:
+   - Transformaciones iniciales para comprender valores numéricos que correspoden categorías en formato de texto.
+   - Fuente de información: [Repositorio en GitHub](https://github.com/carmelh/SQL_projects/tree/main/student_data_analysis/Datasets)
+2. **Análisis Exploratorio de Datos (EDA)**:
+    - Análisis de correlaciones y tendencias claves con diversas ténicas de selección.
+3. **Pipelines**:
+    - Preprocesamiento de datos.
+4. **Selección de modelos**:
+   - Evaluación inicial de varios algoritmos de Machine Learning mediante **Cross Validation** incluyendo:
+       - Random Forest.
+       - XGBoost.
+       - LightGBM.
+       - CatBoost
+5. **Optimización**
+   - Uso de **GridSearchCV** para optimizar hiperparámetros.
+   - Técnica **SMOTE** de la librería *Imbalanced-learn*.
+6. **Evaluación**:
+   - Métricas de rendimiento: `precision`, `recall` y `F1-score`
+
+## Resultados
+Los modelos lograron predecir el rendimiento estudiantil con los siguientes resultados destacados:
+- **Modelo seleccionado**: XGBoost con la técnica `SMOTE`.
+- **Rendimiento en conjunto de *Test***:
+    - `Precision`: (**Dropout**: 91%) - (**Graduate**:93%)
+    - `Recall`: (**Dropout**: 89%) - (**Graduate**:95%)
+    - `F1-score`: (**Dropout**: 90%) - (**Graduate**:94%)
+- **Factores más relevantes**:
+    - Después de hacer os diferentes análisis para seleccionar las *Features* y de la selección del modelo, la mejor métrica conseguida fue abarcando todas las variables.
+
+Más detalles sobre los resultados están disponibles en la 'memoria' del proyecto.
+
+## Contacto
+Para cualquier pregunta o comentario, puedes contactarme a través de:
+- Correo electrónico: somm14DS@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sorayamm/
+
+## Agradecimientos
+Agradecimientos especiales a:
+- Al repositorio [Zenodo](https://zenodo.org/records/5777340#.Y7FJotJBwUE) por proporcionar de manera pública los datos utilizados para realizar este proyecto.
+- Profesores y compañeros de los cursos de análisis de datos por su ayuda y sugerencias.
