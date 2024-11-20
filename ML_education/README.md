@@ -54,7 +54,7 @@ Los modelos lograron predecir el rendimiento estudiantil con los siguientes resu
     - `Recall`: (**Dropout**: 89%) - (**Graduate**:95%)
     - `F1-score`: (**Dropout**: 90%) - (**Graduate**:94%)
 - **Factores más relevantes**:
-    - Después de hacer os diferentes análisis para seleccionar las *Features* y de la selección del modelo, la mejor métrica conseguida fue abarcando todas las variables.
+    - Después de hacer diferentes análisis para seleccionar las *Features* y de la selección del modelo, la mejor métrica conseguida fue abarcando todas las variables.
 
 Más detalles sobre los resultados están disponibles en la ['memoria'](./memoria.ipynb) del proyecto.
 
