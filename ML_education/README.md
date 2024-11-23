@@ -65,5 +65,5 @@ Para cualquier pregunta o comentario, puedes contactarme a través de:
 
 ## Agradecimientos
 Agradecimientos especiales a:
-- Al repositorio [Zenodo](https://zenodo.org/records/5777340#.Y7FJotJBwUE) por proporcionar de manera pública los datos utilizados para realizar este proyecto.
+- A la plataforma [Kaggle](https://www.kaggle.com/datasets) por proporcionar de manera pública los datos utilizados para realizar este proyecto.
 - Profesores y compañeros de los cursos de análisis de datos por su ayuda y sugerencias.
