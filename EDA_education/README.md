@@ -46,7 +46,7 @@ Puedes explorar los resultados completos en el [notebook del análisis](./main.i
 Para cualquier pregunta o comentario, puedes contactarme a través de:
 
 - Correo electrónico: somm14DS@gmail.com
-- LinkedIn: **en construcción**
+- LinkedIn: linkedin.com/in/sorayamm
 
 ## Agradecimientos
 
